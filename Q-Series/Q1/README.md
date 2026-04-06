@@ -15,6 +15,7 @@
 | Connectivity | USB-C wired |
 | Hot-swap | Yes |
 | Firmware | QMK / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/master/keyboards/keychron/q1) |
 
 ## Included Files
 

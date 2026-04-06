@@ -16,6 +16,7 @@
 | Polling Rate | 1000 Hz (wired) |
 | Hot-swap | Optional (model-dependent) |
 | Firmware | QMK / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/k2_pro) |
 
 ## Included Files
 

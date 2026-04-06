@@ -18,6 +18,7 @@
 | Rapid Trigger | Yes |
 | Adjustable Actuation | 0.2 - 3.8 mm |
 | Firmware | QMK / Lemokey Launcher / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/p1_he) |
 
 ## Included Files
 

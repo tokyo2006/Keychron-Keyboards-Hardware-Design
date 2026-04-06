@@ -16,6 +16,7 @@
 | Polling Rate | 1000 Hz (2.4 GHz) |
 | Hot-swap | Yes (low-profile MX) |
 | Firmware | QMK / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/k13_max) |
 
 ## Included Files
 

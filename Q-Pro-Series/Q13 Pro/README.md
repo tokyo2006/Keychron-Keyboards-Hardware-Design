@@ -16,6 +16,7 @@
 | Polling Rate | 1000 Hz (wired) / 90 Hz (wireless) |
 | Hot-swap | Yes |
 | Firmware | QMK / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/bluetooth_playground/keyboards/keychron/q13_pro) |
 
 ## Included Files
 

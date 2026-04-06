@@ -15,6 +15,7 @@
 | Connectivity | Bluetooth 5.1 / 2.4 GHz / USB-C |
 | Hot-swap | Yes |
 | Firmware | QMK / VIA |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v10_max) |
 
 ## Included Files
 

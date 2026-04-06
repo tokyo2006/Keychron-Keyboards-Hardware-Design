@@ -18,6 +18,7 @@
 | Rapid Trigger | Yes |
 | Adjustable Actuation | Yes |
 | Firmware | Keychron Launcher / QMK |
+| Firmware Source | [Link](https://github.com/Keychron/qmk_firmware/tree/hall_effect_playground/keyboards/keychron/q6_he) |
 
 ## Included Files
 
