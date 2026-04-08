@@ -17,6 +17,25 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [V8 Max](./V8%20Max/README.md) | Alice | 69-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v8_max) |
 | [V10 Max](./V10%20Max/README.md) | 75% Alice | 82-key | Yes | [Link](https://github.com/Keychron/qmk_firmware/tree/wireless_playground/keyboards/keychron/v10_max) |
 
+## Current Product Lineup
+
+As of April 9, 2026, the Keychron V Max collection includes the following V Max products:
+
+- [V1 Max](https://www.keychron.com/products/keychron-v1-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V1 Max ISO Layout Collection](https://www.keychron.com/products/keychron-v1-max-qmk-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [V2 Max](https://www.keychron.com/products/keychron-v2-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V3 Max](https://www.keychron.com/products/keychron-v3-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V3 Max ISO Layout Collection](https://www.keychron.com/products/keychron-v3-max-qmk-via-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [V4 Max](https://www.keychron.com/products/keychron-v4-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V5 Max](https://www.keychron.com/products/keychron-v5-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V5 Max ISO Layout Collection](https://www.keychron.com/products/keychron-v5-max-qmk-via-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [V6 Max](https://www.keychron.com/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard)
+- [V6 Max ISO Layout Collection](https://www.keychron.com/products/keychron-v6-max-qmk-via-wireless-custom-mechanical-keyboard-iso-layout-collection)
+- [V8 Max](https://www.keychron.com/products/keychron-v8-max-alice-layout-qmk-custom-mechanical-keyboard)
+- [V10 Max](https://www.keychron.com/products/keychron-v10-max-qmk-via-wireless-custom-mechanical-keyboard)
+
+If there is a V Max series model or variant you would like to see added to this repository, please contact Keychron or [open a file request](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design/issues/new?template=file-request.yml).
+
 ## Download Files
 
 | File | Description | Format |
