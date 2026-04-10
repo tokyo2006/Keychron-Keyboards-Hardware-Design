@@ -89,7 +89,9 @@ K-Max-Series/
 
 ## License
 
-This project is **source-available**. All design files are provided for personal, educational, and non-commercial use only. **Commercial use is strictly prohibited.**
+This project is **source-available**. Personal and educational use is allowed, and commercial use is allowed for original compatible accessories within the limits of the license.
+
+**You may not use these files to copy, manufacture, sell, or distribute Keychron keyboards or mice, or substantially similar products, and you may not use Keychron trademarks as your own branding.**
 
 See the [LICENSE](../LICENSE) file for full terms.
 
