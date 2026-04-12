@@ -20,3 +20,8 @@ jobs:
 
       - name: Validate README counts
         run: python3 scripts/repo_inventory.py validate
+
+      - name: Validate generated inventory document
+        run: |
+          python3 scripts/repo_inventory.py generate > /tmp/repo-inventory.md
+          diff -u docs/repo-inventory.md /tmp/repo-inventory.md

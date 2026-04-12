@@ -206,8 +206,8 @@ Generated from the current filesystem using `scripts/repo_inventory.py`.
 
 - Path: `Q-HE-Series/Q0 HE`
 - Data files: 9
-- README present: no
-- Extensions: `.dwg` x1, `.dxf` x1, `.pdf` x1, `.stp` x6
+- README present: yes
+- Extensions: `.dwg` x1, `.dxf` x1, `.md` x1, `.pdf` x1, `.stp` x6
 
 ### Q-HE-Series / Q1 HE
 

@@ -15,7 +15,7 @@ Study real CAD. Remix plates and cases. Design compatible accessories. Learn fro
 
 ## Latest Updates
 
-- **2026-04-11:** Added add c3 Pro 8k, K4 HE, K8 HE, K2 QMK, Q0 HE and Q12 HE.
+- **2026-04-11:** Added C3 Pro 8K, K4 HE, K8 HE, K2 QMK, Q0 HE, and Q12 HE.
 - **2026-04-10:** Added more K0 Max files, Q12 HE and more Q6 Max files and more keycap profiles.
 - **2026-04-09:** Added K10 HE, Q6 Max and K0 Max design files. Update: make the accessories not subject to licensing.
 - **2026-04:** Added Q HE and mouse design files.
@@ -65,12 +65,12 @@ If you're new, begin with one of these paths:
 | **C Pro 8K Series** | Keyboard | C1 Pro 8K, C2 Pro 8K, C3 Pro 8K | Case, Plate, Full Model, Stabilizer |
 | **Q Series** | Keyboard | Q0 Plus, Q1–Q12, Q60, Q65 | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
 | **Q Pro Series** | Keyboard | Q1 Pro–Q14 Pro (10 models) | Case, Plate, Encoder, Full Model, Stabilizer, KSA Keycap |
-| **Q HE Series** | Hall Effect | Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
+| **Q HE Series** | Hall Effect | Q0 HE, Q1 HE, Q3 HE, Q5 HE, Q6 HE, Q12 HE | Plate, Full Model, selected case parts |
 | **Q Max Series** | Keyboard | Q6 Max | Case, Plate, Full Model, Stabilizer |
 | **Q Ultra 8K Series** | Keyboard | Q6 Ultra 8K | Plate |
 | **K Pro Series** | Keyboard | K1 Pro–K17 Pro (16 models) | Case, Plate, Full Model, Stabilizer |
 | **K Max Series** | Keyboard | K0 Max, K1 Max–K17 Max (12 models) | Case, Plate, Full Model, Stabilizer, Keycap on selected models |
-| **K HE Series** | Hall Effect | K2 HE–K10 HE | Case, Plate, Full Model, Stabilizer, Keycap (K2 HE; other models pending) |
+| **K HE Series** | Hall Effect | K2 HE, K4 HE, K6 HE, K8 HE, K10 HE | Published models include case, plate, full model, stabilizer, and selected keycap files; K6 HE is currently folder-only |
 | **K QMK Series** | Keyboard | K2 QMK | Case, Plate, Stabilizer, Keycap |
 | **L Series** | Keyboard | L1, L3 | Case, Plate, Knob, Full Model, Stabilizer |
 | **V Max Series** | Keyboard | V1 Max–V10 Max | Case, Plate, Encoder, Full Model, Stabilizer, OSA Keycap |
@@ -88,7 +88,7 @@ C-Pro-8K-Series/
 Q-Series/
   Q0 Plus/              — Numpad files alongside Q1–Q12, Q60, and Q65
 Q-HE-Series/
-  Q12 HE/               — Hall Effect files alongside Q1 HE, Q3 HE, Q5 HE, and Q6 HE
+  Q0 HE/                — Hall Effect numpad files alongside Q1 HE, Q3 HE, Q5 HE, Q6 HE, and Q12 HE
 Q-Pro-Series/
   Q1 Pro/               — Wireless Q-series hardware files across 10 models
 Q-Max-Series/

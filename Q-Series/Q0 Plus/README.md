@@ -24,10 +24,10 @@ The Q0 Plus is a 27-key gasket-mounted aluminum numpad designed for productivity
 
 | File | Description | Format |
 |------|-------------|--------|
-| `Q0-Plus-Enclosure.step` | Full enclosure model (top case, bottom case, weight) | STEP |
-| `Q0-Plus-Switch-Plate.dxf` | Switch plate cutout drawing | DXF |
-| `Q0-Plus-Assembly.step` | Complete assembly with all components | STEP |
-| `Q0-Plus-Stabilizer-Specs.pdf` | Stabilizer dimensions and layout reference | PDF |
+| `Q0-Plus-Top-Case.stp` and `Q0-Plus-Bottom-Case.stp` | Split enclosure models for the aluminum case | STEP |
+| `Q0-Plus-Plate.dxf` and `Q0-Plus-Plate.pdf` | Switch plate geometry and reference drawing | DXF / PDF |
+| `Q0-Plus-US-Full-Model-20230105.stp` | Complete assembled model with the current dated filename | STEP |
+| `Q0-Plus-Knob.stp` and `Stabilizer-Q0-Plus.stp` | Rotary encoder knob and stabilizer reference parts | STEP |
 
 ## Compatible Software
 
