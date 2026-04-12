@@ -13,7 +13,7 @@ Part of the [Keychron Keyboards Hardware Design](https://github.com/Keychron/Key
 | [Q3 HE 8K](./Q3%20HE%208K/README.md) | 80% | TKL | Yes | Keychron Launcher |
 | [Q5 HE 8K](./Q5%20HE%208K/README.md) | 96% | Compact | Yes | Keychron Launcher |
 | [Q6 HE 8K](./Q6%20HE%208K/README.md) | 100% | Full-size | Yes | Keychron Launcher |
-| [Q16 HE 8K](./Q16%20HE%208K/README.md) | 65% Alice | Alice | Yes | Keychron Launcher |
+| [Q16 HE 8K](./Q16%20HE%208K/README.md) | 65% | Compact | Yes | Keychron Launcher |
 
 ## Repository Contents
 

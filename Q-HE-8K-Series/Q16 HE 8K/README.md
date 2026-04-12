@@ -1,6 +1,6 @@
 # Keychron Q16 HE 8K — Hardware Design Files
 
-> 65% Alice wired magnetic switch custom gaming keyboard with 8K polling, 256 kHz single-key scanning, a knob, premium ceramic design, and advanced acoustic foam.
+> 65% wired magnetic switch custom gaming keyboard with 8K polling, 256 kHz single-key scanning, a knob, premium ceramic design, and advanced acoustic foam.
 
 **Product page:** [Keychron Q16 HE 8K](https://www.keychron.com/products/keychron-q16-he-8k-magnetic-switch-keyboard)
 
@@ -23,7 +23,7 @@
 
 | Spec | Detail |
 |---|---|
-| Layout | 65% Alice |
+| Layout | 65% |
 | Connection | Wired |
 | Polling Rate | 8,000 Hz |
 | Single-Key Scan Rate | 256 kHz |
